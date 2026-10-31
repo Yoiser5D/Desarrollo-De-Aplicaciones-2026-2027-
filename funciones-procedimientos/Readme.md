@@ -9,7 +9,6 @@
 
 Este proyecto contiene dos ejercicios desarrollados en C# sobre el tema de funciones y procedimientos.
 
-El objetivo es practicar la creación y utilización de métodos para organizar el código, recibir datos, procesar información y mostrar resultados en la consola.
 
 ---
 

@@ -41,7 +41,13 @@ El programa solicita al usuario los siguientes datos:
 
 **Escenario 1: Datos correctos**
 
-funciones-procedimientos/gamapic/false.png
+### Escenario 1: Datos correctos
+
+![Ejercicio 1 correcto](gamapic/true.png)
+
+### Escenario 2: Datos incorrectos
+
+![Ejercicio 1 incorrecto](imagenes/ejercicio1-incorrecto.png)
 
 **Escenario 2: Datos incorrectos**
 

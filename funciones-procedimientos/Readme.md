@@ -84,10 +84,10 @@ El programa muestra:
 ## 6. Capturas de pantalla
 
 **Escenario 1: Cliente frecuente**
-![Ejercicio 2 correcto ].(gamapic/si.png)
+![Ejercicio 2 correcto ](gamapic/si.png)
 
 **Escenario 2: Cliente no frecuente**
-![Ejercicio 2 correcto ].(gamapic/no.png)
+![Ejercicio 2 correcto ](gamapic/no.png)
 
 
 ---

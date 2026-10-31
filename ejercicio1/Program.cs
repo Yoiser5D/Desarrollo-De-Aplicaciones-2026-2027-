@@ -2,13 +2,13 @@
 
 class Cuenta
 {
-    // Usuario = inicial del nombre + apellido, todo en minúsculas
+    
     static string GenerarUsuario(string nombre, string apellido)
     {
         return (nombre.Substring(0, 1) + apellido).ToLower();
     }
 
-    // Clave válida: al menos 8 caracteres y contiene el apellido del usuario
+ 
     static bool ClaveValida(string clave, string usuario)
     {
         string apellido = usuario.Substring(1);

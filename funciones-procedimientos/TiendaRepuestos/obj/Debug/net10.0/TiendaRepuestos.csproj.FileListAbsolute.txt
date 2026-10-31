@@ -1,0 +1,15 @@
+C:\Users\johan\Documents\Secuenciales\TiendaRepuestos\bin\Debug\net10.0\TiendaRepuestos.exe
+C:\Users\johan\Documents\Secuenciales\TiendaRepuestos\bin\Debug\net10.0\TiendaRepuestos.deps.json
+C:\Users\johan\Documents\Secuenciales\TiendaRepuestos\bin\Debug\net10.0\TiendaRepuestos.runtimeconfig.json
+C:\Users\johan\Documents\Secuenciales\TiendaRepuestos\bin\Debug\net10.0\TiendaRepuestos.dll
+C:\Users\johan\Documents\Secuenciales\TiendaRepuestos\bin\Debug\net10.0\TiendaRepuestos.pdb
+C:\Users\johan\Documents\Secuenciales\TiendaRepuestos\obj\Debug\net10.0\TiendaRepuestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Documents\Secuenciales\TiendaRepuestos\obj\Debug\net10.0\TiendaRepuestos.AssemblyInfoInputs.cache
+C:\Users\johan\Documents\Secuenciales\TiendaRepuestos\obj\Debug\net10.0\TiendaRepuestos.AssemblyInfo.cs
+C:\Users\johan\Documents\Secuenciales\TiendaRepuestos\obj\Debug\net10.0\TiendaRepuestos.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\Secuenciales\TiendaRepuestos\obj\Debug\net10.0\TiendaRepuestos.dll
+C:\Users\johan\Documents\Secuenciales\TiendaRepuestos\obj\Debug\net10.0\refint\TiendaRepuestos.dll
+C:\Users\johan\Documents\Secuenciales\TiendaRepuestos\obj\Debug\net10.0\TiendaRepuestos.pdb
+C:\Users\johan\Documents\Secuenciales\TiendaRepuestos\obj\Debug\net10.0\TiendaRepuestos.genruntimeconfig.cache
+C:\Users\johan\Documents\Secuenciales\TiendaRepuestos\obj\Debug\net10.0\ref\TiendaRepuestos.dll
+C:\Users\johan\Documents\Secuenciales\TiendaRepuestos\obj\Debug\net10.0\TiendaRe.36F47641.Up2Date

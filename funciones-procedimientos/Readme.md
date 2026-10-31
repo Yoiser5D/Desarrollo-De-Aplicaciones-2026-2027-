@@ -1,4 +1,4 @@
-q# Ejercicios de Funciones y Procedimientos en C#
+# Ejercicios de Funciones y Procedimientos en C#
 
 ## 1. Datos de los integrantes
 
@@ -51,7 +51,6 @@ El programa solicita al usuario los siguientes datos:
 
 **Escenario 2: Datos incorrectos**
 
-Agregar aquí la captura del programa mostrando una clave no válida o un nombre vacío.
 
 ---
 

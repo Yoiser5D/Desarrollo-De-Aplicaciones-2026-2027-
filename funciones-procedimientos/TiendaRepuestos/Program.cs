@@ -20,7 +20,7 @@ class Program
         decimal subtotal = decimal.Parse(Console.ReadLine());
 
         Console.Write("¿Cliente frecuente? (s/n): ");
-        bool frecuente = Console.ReadLine().ToLower() == "Si";
+        bool frecuente = Console.ReadLine().ToLower() == "si";
 
         Console.WriteLine($"Cliente: {cliente}");
         Console.WriteLine($"Total a pagar: {CalcularTotal(subtotal, frecuente):0.##}");

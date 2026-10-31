@@ -41,7 +41,7 @@ El programa solicita al usuario los siguientes datos:
 
 **Escenario 1: Datos correctos**
 
-Agregar aquí la captura del programa con un nombre, apellido y clave válida.
+funciones-procedimientos/gamapic/false.png
 
 **Escenario 2: Datos incorrectos**
 

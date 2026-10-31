@@ -5,7 +5,7 @@
 - **Yoiser Cedano Arredondo**
 - **Marcos Bastista Robles**
 
-## 2. Descripción 
+## 2. Descripción
 
 Este proyecto contiene dos ejercicios desarrollados en C# sobre el tema de funciones y procedimientos.
 
@@ -25,17 +25,14 @@ El programa solicita al usuario los siguientes datos:
 
 ## 4. Proceso
 
-El programa utiliza tres métodos:
 
 - **LeerTexto():** solicita y lee los datos introducidos por el usuario.
 - **GenerarUsuario():** crea un nombre de usuario utilizando la primera letra del nombre y el apellido en minúsculas.
 - **ValidarClave():** comprueba que la clave tenga al menos 8 caracteres y que no contenga espacios.
 
-También verifica que el nombre y el apellido no estén vacíos.
 
 ## 5. Salida
 
-El programa muestra:
 
 - El nombre de usuario generado.
 - Si la clave es válida o no.
@@ -45,9 +42,6 @@ El programa muestra:
 
 **Escenario 1: Datos correctos**
 
-
-
-
 Agregar aquí la captura del programa con un nombre, apellido y clave válida.
 
 **Escenario 2: Datos incorrectos**
@@ -56,41 +50,41 @@ Agregar aquí la captura del programa mostrando una clave no válida o un nombre
 
 ---
 
-# Ejercicio 2: Creación de cuenta y validación de clave
+# Ejercicio 2: Tienda de repuestos
 
 ## 3. Entrada
 
-El programa solicita los siguientes datos:
+El programa pide al usuario los siguientes datos:
 
-- Nombre.
-- Apellido.
-- Clave.
+- Nombre del cliente.
+- Subtotal de la venta.
+- Si el cliente es frecuente (sí o no).
 
 ## 4. Proceso
 
-El programa utiliza tres métodos:
+El programa utiliza dos métodos:
 
-- **GenerarUsuario():** crea un usuario combinando la primera letra del nombre con el apellido, convirtiendo el resultado a minúsculas.
-- **ClaveValida():** comprueba que la clave tenga al menos 8 caracteres y que contenga el apellido del usuario.
-- **MostrarCuenta():** muestra los datos de la cuenta y el resultado de la validación.
+- **CalcularTotal():** aplica un descuento del 10 % al subtotal si el cliente es frecuente, luego calcula el ITBIS del 18 % y devuelve el total a pagar.
+- **MostrarFactura():** muestra el nombre del cliente y el total de la factura.
+
+En el método principal Main() se solicitan los datos del cliente y se utilizan los métodos para realizar los cálculos y mostrar la factura.
 
 ## 5. Salida
 
-El programa presenta en pantalla:
+El programa muestra:
 
-- El nombre de usuario generado.
-- La clave introducida.
-- Si la clave es válida o no.
+- El nombre del cliente.
+- El total a pagar después de aplicar el descuento, si corresponde, y agregar el ITBIS del 18 %.
 
 ## 6. Capturas de pantalla
 
-**Escenario 1: Clave válida**
+**Escenario 1: Cliente frecuente**
 
-Agregar aquí la captura del programa utilizando una clave de al menos 8 caracteres que contenga el apellido.
+Agregar aquí la captura del programa con un cliente frecuente, mostrando el descuento del 10 % aplicado y el total de la factura.
 
-**Escenario 2: Clave no válida**
+**Escenario 2: Cliente no frecuente**
 
-Agregar aquí la captura del programa utilizando una clave que no cumpla las condiciones establecidas.
+Agregar aquí la captura del programa con un cliente no frecuente, mostrando el total sin descuento y con el ITBIS incluido.
 
 ---
 
@@ -104,6 +98,3 @@ Agregar aquí la captura del programa utilizando una clave que no cumpla las con
 
 ---
 
-# 8. Repositorio
-
-Este proyecto forma parte de las prácticas del tema de funciones y procedimientos de la asignatura de programación.

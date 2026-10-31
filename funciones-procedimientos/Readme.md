@@ -1,4 +1,4 @@
-# Ejercicios de Funciones y Procedimientos en C#
+q# Ejercicios de Funciones y Procedimientos en C#
 
 ## 1. Datos de los integrantes
 
@@ -47,7 +47,7 @@ El programa solicita al usuario los siguientes datos:
 
 ### Escenario 2: Datos incorrectos
 
-![Ejercicio 1 incorrecto](imagenes/ejercicio1-incorrecto.png)
+![Ejercicio 1 incorrecto](gamapic/false.png)
 
 **Escenario 2: Datos incorrectos**
 

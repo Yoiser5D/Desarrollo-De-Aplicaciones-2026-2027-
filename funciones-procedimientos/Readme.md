@@ -84,22 +84,20 @@ El programa muestra:
 ## 6. Capturas de pantalla
 
 **Escenario 1: Cliente frecuente**
-
-Agregar aquí la captura del programa con un cliente frecuente, mostrando el descuento del 10 % aplicado y el total de la factura.
+![Ejercicio 2 correcto ].(gamapic/si.png)
 
 **Escenario 2: Cliente no frecuente**
+![Ejercicio 2 correcto ].(gamapic/no.png)
 
-Agregar aquí la captura del programa con un cliente no frecuente, mostrando el total sin descuento y con el ITBIS incluido.
 
 ---
 
 # 7. Tecnologías utilizadas
 
-- Lenguaje de programación C#.
+- Lenguaje  C#.
 - Visual Studio.
-- .NET.
 - Métodos, funciones y procedimientos.
-- Consola de Windows.
+- La consola de VS
 
 ---
 
